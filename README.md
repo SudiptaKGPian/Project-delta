@@ -1,5 +1,5 @@
 # Project-delta
-Machine Learning based prediction for effective drug binding to SARS-COV2 Delta strain Spike protein
+Evaluation of Predictive Machine Learning Models for Drug Repurposing Against Delta Variant of SARS-CoV-2 Spike Protein
 
 # Overview
 The present work employs a combination of machine learning and rigorous docking experiments to evaluate the prediction performances of various algorithms based on calculated molecular descriptors. The correlation between 15 most useful features (descriptors) and identify a clear pattern that can efficiently define effective drug-protein binding is also calculated. With the statistical analysis, we report close observation of these 15 molecular properties while considering virtual screening or lead generation for SARS-Cov-2 spike protein.
