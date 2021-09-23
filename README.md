@@ -5,7 +5,7 @@ Machine Learning based prediction for effective drug binding to SARS-COV2 Delta 
 This project is soon to be published as a journal paper. Hence, complete datasets and all the necessary codes to reproduce the work will be published in few days (after publication)
 
 ## Project work-flow:
-<img src="Flow_chart/Flow_chart_diagram.png" width="1000" >
+<img src="Flow_chart/Flow_chart_diagram.tiff" width="1000" >
 
 ## Requirements:
 
