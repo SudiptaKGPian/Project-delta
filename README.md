@@ -12,11 +12,11 @@ All the data supporting the ligand library used in this study is available in th
 
 ## Requirements:
 
-Platform: 
+### Platform: 
   * Ubuntu 20.04
   * Windows 10
 
-Requirements: 
+### Programming language and tools: 
   * Python 3.8.8 (3.5+ should work fine)
   * Pandas
   * Numpy
@@ -26,7 +26,7 @@ Requirements:
   * SelectKBest
   * SlickML (works on Ubuntu)
 
-## Softwares used for Molecular Descriptor Calculation and Dataset curation:
+### Softwares used for Molecular Descriptor Calculation and Dataset curation:
   * Autodock Suit (1.5.6)
   * PyMol (Version 2.0)
   * Discovery Studio (v21.1.0.20298)
